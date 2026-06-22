@@ -1,33 +1,28 @@
 #  Blinkit Clone Website
 
-A responsive Blinkit Clone built using **HTML5** and **CSS3**.
+A fully responsive **Blinkit Clone** built using **HTML5** and **CSS3**.
 
-This project recreates the user interface of the Blinkit grocery delivery website, including a responsive header, search bar, product sections, categories, banners, and footer.
+This project recreates the user interface of Blinkit, featuring a modern layout with a responsive navigation bar, search functionality UI, product cards, category sections, promotional banners, and a professional footer.
 
----
 
 ##  Features
 
-- Responsive Design
-- Blinkit Inspired UI
-- Header Navigation
-- Search Bar
-- Product Cards
-- Category Section
-- Promotional Banners
-- Responsive Footer
-- Mobile Friendly Layout
-- Font Awesome Icons
-
----
+* Responsive Design
+* Blinkit Inspired User Interface
+* Header Navigation
+* Search Bar UI
+* Product Cards Layout
+* Categories Section
+* Promotional Banners
+* Responsive Footer
+* Mobile-Friendly Design
+* Font Awesome Icons Integration
 
 ##  Technologies Used
 
-- HTML5
-- CSS3
-- Font Awesome
-
----
+* HTML5
+* CSS3
+* Font Awesome
 
 ##  Project Structure
 
@@ -45,94 +40,79 @@ Blinkit-Clone/
 └── README.md
 ```
 
----
+## 📸 Project Screenshots
 
-##  Screenshots
+### Home Page
 
-### Desktop View
+<img width="959" height="440" alt="Blinkit Clone Screenshot 1" src="https://github.com/user-attachments/assets/60441f49-69d6-4ebc-8cf5-ddfd9bec2d6c" />
 
-Add screenshot here:
+<img width="959" height="440" alt="Blinkit Clone Screenshot 2" src="https://github.com/user-attachments/assets/e6aee384-b4d1-4ea7-8530-98658c4e3dd7" />
 
-```md
-<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/60441f49-69d6-4ebc-8cf5-ddfd9bec2d6c" />
-<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/e6aee384-b4d1-4ea7-8530-98658c4e3dd7" />
-<img width="950" height="425" alt="image" src="https://github.com/user-attachments/assets/39ade6e9-943f-4622-83ec-35949fadef7a" />
-<img width="950" height="425" alt="image" src="https://github.com/user-attachments/assets/d97ef5d4-6e25-4da9-ae0c-86337776947f" />
-<img width="959" height="427" alt="image" src="https://github.com/user-attachments/assets/2514a511-62b3-4498-9fe2-8117854d486d" />
+<img width="950" height="425" alt="Blinkit Clone Screenshot 3" src="https://github.com/user-attachments/assets/39ade6e9-943f-4622-83ec-35949fadef7a" />
 
-```
+<img width="950" height="425" alt="Blinkit Clone Screenshot 4" src="https://github.com/user-attachments/assets/d97ef5d4-6e25-4da9-ae0c-86337776947f" />
 
+<img width="959" height="427" alt="Blinkit Clone Screenshot 5" src="https://github.com/user-attachments/assets/2514a511-62b3-4498-9fe2-8117854d486d" />
 
+##  What I Learned
 
-##  Learning Objectives
+During this project, I gained hands-on experience with:
 
-This project helped me learn:
-
-- HTML Semantic Structure
-- CSS Flexbox
-- Responsive Web Design
-- CSS Media Queries
-- Layout Building
-- UI Cloning
-- Git & GitHub Workflow
-
----
+* Semantic HTML5
+* CSS Flexbox
+* Responsive Web Design
+* CSS Media Queries
+* Layout Structuring
+* UI Cloning Techniques
+* Git & GitHub Workflow
+* Project Organization
 
 ##  Responsive Design
 
-The website is optimized for:
+This website is optimized for:
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
+*  Desktop
 
----
+## Installation
 
-##  Installation
+1. Clone the repository:
 
-1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/blinkit-clone.git
-```
+git clone https://github.com/prernasharma867/blinkit-clone.git
 
-2. Open the project folder
 
-```bash
+2. Navigate to the project folder:
+
+
 cd blinkit-clone
-```
+
 
 3. Open `index.html` in your browser.
 
----
-
 ##  Future Improvements
 
-- Add JavaScript functionality
-- Shopping Cart
-- Product Filtering
-- Search Functionality
-- Login System
-- Dark Mode
-- Backend Integration
+* Add JavaScript Functionality
+* Shopping Cart Feature
+* Product Filtering
+* Search Functionality
+* User Authentication
+* Dark Mode
+* Backend Integration
+* Database Connectivity
 
----
+##  Disclaimer
 
-## Disclaimer
+This project was created for educational and learning purposes only.
 
-This project is created for educational and learning purposes only.
+Blinkit and its associated branding belong to their respective owners. No copyright infringement is intended.
 
-The original design and branding belong to Blinkit.
-
----
-
-## Author
+##  Author
 
 **Prerna Sharma**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/prernasharma867
 
----
 
-⭐ If you like this project, don't forget to star the repository.
+
+⭐ If you found this project helpful, consider giving it a star!
+
